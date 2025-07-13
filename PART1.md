@@ -2,12 +2,10 @@
 
 ## A. Member Contributions
 
-No | ID         | Name | Task descriptions | Contribution %
--- | ---------- | ---- | ----------------- | --------------
-1  | 1211101234 |   MUHAMMAD ZAHIN ADRI BIN MOHD NAWAWI   |  Planning and doing Card.java,CardValue.java, recording and submission.               | 50%
-2  |    1211101888        |   SHAHNAZ BINTI HUSAIN SHUKRI   |     Planning and doing Deck.java,GoBoom.java,Player.java              | 50%
-3  |            |      |                   |
-4  |            |      |                   |
+No | ID         | Name                                    | Task descriptions                                                        | Contribution %
+-- | ---------- | --------------------------------------- | ------------------------------------------------------------------------ | ---------------
+1  | 1211101234 |   MUHAMMAD ZAHIN ADRI BIN MOHD NAWAWI   |  Planning and doing Card.java,CardValue.java, recording and submission.  | 50%
+2  | 1211101888 |   SHAHNAZ BINTI HUSAIN SHUKRI           |  Planning and doing Deck.java,GoBoom.java,Player.java                    | 50%
 
 
 ## B. Feature Completion
