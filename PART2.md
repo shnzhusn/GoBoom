@@ -2,12 +2,10 @@
 
 ## A. Member Contributions
 
-No | ID         | Name | Task descriptions | Contribution %
--- | ---------- | ---- | ----------------- | --------------
-1  | 1211101234 |  MUHAMMAD ZAHIN ADRI     |      Did some touch ups and tried doing the GUI section, also worked on the Save and Load function alongside Shahnaz           | 50
-2  | 1211101888           | SHAHNAZ BINTI HUSAIN SHUKRI    |     Updated the rest of the source codes and also worked on the save and load function, added the scores             | 50
-3  |            |      |                   |
-4  |            |      |                   |
+No | ID         | Name                           | Task descriptions                                                                                                | Contribution %
+-- | ---------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- | --------------
+1  | 1211101234 | MUHAMMAD ZAHIN ADRI            | Did some touch ups and tried doing the GUI section, also worked on the Save and Load function alongside Shahnaz  | 50
+2  | 1211101888 | SHAHNAZ BINTI HUSAIN SHUKRI    | Updated the rest of the source codes and also worked on the save and load function, added the scores             | 50
 
 
 ## B. Part 1 Feature Completion (Latest)
@@ -30,23 +28,13 @@ No | Feature                                                                    
 
 Mark Y for Complete, P for Partial done, N for Not implemented.
 
-No | Feature                                                                          | Completed (Y/P/N)
--- | -------------------------------------------------------------------------------- | -----------------
-1  | If a player cannot follow suit or rank, the player must draw from the deck       |Y
-   | until a card can be played.                                                      |
-2  | When the remaining deck is exhausted and the player cannot play,                 |Y
-   | the player does not play in the trick.                                           |
-3  | Finish a round of game correctly. Display the score of each player.              |Y
-4  | Can exit and save the game (use file or database).                               |Y
-5  | Can resume the game. The state of the game is restored when resuming a game      |Y
-   | (use file or database).                                                          |
-6  | Reset the game. All scores become zero. Round and trick number restart from 1.   |Y
-7  | Support GUI playing mode (cards should be faced up or down as in the real game). |N
-   | The GUI can be in JavaFX, Swing, Spring, or Android.                             |
-8  | Keep the console output to facilitate checking.                                  |N
-   | The data in console output and the GUI must tally.                               |
-
-
-## D. Link to Part 2 GitHub Repo
-
-https://link_to_your_GitHub_repo
+No | Feature                                                                                                                                | Completed (Y/P/N)
+-- | -------------------------------------------------------------------------------------------------------------------------------------- | -----------------
+1  | If a player cannot follow suit or rank, the player must draw from the deck until a card can be played.                                 |Y
+2  | When the remaining deck is exhausted and the player cannot play, the player does not play in the trick.                                |Y
+3  | Finish a round of game correctly. Display the score of each player.                                                                    |Y
+4  | Can exit and save the game (use file or database).                                                                                     |Y
+5  | Can resume the game. The state of the game is restored when resuming a game (use file or database).                                    |Y
+6  | Reset the game. All scores become zero. Round and trick number restart from 1.                                                         |Y
+7  | Support GUI playing mode (cards should be faced up or down as in the real game). The GUI can be in JavaFX, Swing, Spring, or Android.  |N
+8  | Keep the console output to facilitate checking. The data in console output and the GUI must tally.                                     |N
