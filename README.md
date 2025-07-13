@@ -14,8 +14,8 @@ This is a Java-based implementation of the **Go Boom** card game, developed as p
 
 ## 📄 Documentation
 
-- 👉 [Part 1 - Base Game Implementation](Part1.md)
-- 👉 [Part 2 - Game Logic Enhancements & Save/Load](Part2.md)
+- [Part 1 - Base Game Implementation](PART1.md)
+- [Part 2 - Game Logic Enhancements & Save/Load](PART2.md)
 
 ---
 
